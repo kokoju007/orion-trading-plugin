@@ -1,0 +1,9 @@
+{
+  "name": "orion-trading",
+  "version": "1.0.0",
+  "description": "Crypto intelligence plugin for Orion — BTC signal analysis, ACP service monitoring, and on-chain oracle management. Built by 꼬낙 (@supernovajunn).",
+  "author": {
+    "name": "꼬낙",
+    "url": "https://x.com/supernovajunn"
+  }
+}
